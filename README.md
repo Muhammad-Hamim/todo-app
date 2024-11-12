@@ -2,6 +2,15 @@
 
 This template provides a setup for React with Vite, TypeScript, and Redux integration.
 
+## Technologies Used
+
+- **React**: A JavaScript library for building user interfaces.
+- **TypeScript**: A typed superset of JavaScript that compiles to plain JavaScript.
+- **Vite**: A build tool that provides a faster and leaner development experience for modern web projects.
+- **Redux**: A predictable state container for JavaScript apps.
+- **@reduxjs/toolkit**: The official, recommended way to write Redux logic.
+- **react-redux**: Official React bindings for Redux.
+
 ## Official Vite Plugins
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
